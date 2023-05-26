@@ -1,4 +1,5 @@
 # Please follow the below steps before executing the evaluation script: test_models.R
+#### Kindly note Step2 to Step4 are to be performed due to the library dependencies of machine learning algorithms, these are not required if energy measurements are being done for simple code snippets(for example, please refer testfile1.R in <a href="https://github.com/rishalab/RJoules/tree/main/Test_files">test files</a>) where no external library is required.
 
 ### Step1
 Mention the correct absolute path for below two lines in test_models.R(Importing RJoules and dataset(spam.csv)) 
