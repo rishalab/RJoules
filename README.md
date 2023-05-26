@@ -11,7 +11,7 @@ RJoules measures the energy consumption of R code snippeton Intel processor and 
 # Steps to run
 1. Clone the repository using ```git clone https://github.com/rishalab/RJoules.git```
 2. Navigate into the RJoules_main directory```cd RJoules_main``` and copy the path ```pwd```
-3. For testing we have provided few <a href="">test files</a>. Take any of the test file and add the copied path in source.
+3. For testing we have provided few <a href="https://github.com/rishalab/RJoules/tree/main/Test_files">test files</a>. Take any of the test file and add the copied path in source.
 4. For checking the energy consumption due to the code snippet present in the test file, run the below command
  ```TESTFILENAME.R```
 4. Check the energy measurement output ```vi output.csv```
