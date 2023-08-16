@@ -270,7 +270,7 @@ measure_energy <- function(f)
                     package1=package1,
                     dram0=dram0,
                     dram1=dram1)
-    write.table(df,file='output.csv',col.names = c("new_tag","timestamp","time","package0","package1","dram0","dram1"),sep = ",",row.names=FALSE, fileEncoding = "UTF-8", append = TRUE)
+    write.table(df,file='RJoules_output.csv',col.names = c("new_tag","timestamp","time","package0","package1","dram0","dram1"),sep = ",",row.names=FALSE, fileEncoding = "UTF-8", append = TRUE)
 
 
   }
